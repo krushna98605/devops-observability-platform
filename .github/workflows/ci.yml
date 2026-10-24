@@ -50,4 +50,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: YOUR_DOCKERHUB_USERNAME/devops-observability-platform:latest
+          tags: krushnadevops9860/devops-observability-platform:latest
